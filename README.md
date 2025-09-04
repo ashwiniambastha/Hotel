@@ -29,7 +29,7 @@ Hotel_V1/
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd Hotel_V1
+cd Hotel
 ```
 
 2. Install dependencies:
