@@ -5,7 +5,7 @@ A comprehensive data science pipeline for analyzing hotel customer churn data, i
 ## 📁 Project Structure
 
 ```
-Hotel_V1/
+Hotel/
 ├── main.py                    # Main pipeline script
 ├── data_loader.py            # Data loading and preprocessing
 ├── eda.py                    # Exploratory data analysis
